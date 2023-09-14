@@ -14,11 +14,11 @@ public class DoublePtr_07_02 {
         // 1. 将其中一条链表首尾相连
         ListNode p = headB;
         while (p != null) {
-            p = p.next;
             if (p.next == null) {
                 p.next = headB;
                 break;
             }
+            p = p.next;
         }
         // 2. 另一条链表寻找环的入口
         ListNode rukou = detectCycle(headA);
