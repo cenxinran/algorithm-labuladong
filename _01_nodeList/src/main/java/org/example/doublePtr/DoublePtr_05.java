@@ -1,4 +1,4 @@
-package org.example;
+package org.example.doublePtr;
 
 /**
  * @BelongsProject: algorithm-labuladong
@@ -13,7 +13,7 @@ public class DoublePtr_05 {
     /***
      * @description 给定链表头结点 head 返回其中点
      * @author 岑然
-     * @return org.example.DoublePtr_05.ListNode
+     * @return org.example.doublePtr.DoublePtr_05.ListNode
      * @param head
      * @date 2023/9/14 16:10
      */

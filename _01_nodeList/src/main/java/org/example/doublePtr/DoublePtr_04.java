@@ -1,4 +1,4 @@
-package org.example;
+package org.example.doublePtr;
 
 /**
  * @BelongsProject: algorithm-labuladong
@@ -21,7 +21,7 @@ public class DoublePtr_04 {
     /***
      * @description 删除链表的第倒数 k 个节点
      * @author 岑然
-     * @return org.example.DoublePtr_04.ListNode
+     * @return org.example.doublePtr.DoublePtr_04.ListNode
      * @param head
      * @param k
      * @date 2023/9/14 15:54
@@ -41,7 +41,7 @@ public class DoublePtr_04 {
     /***
      * @description 找到链表的倒数第 k 个节点，并返回该节点
      * @author 岑然
-     * @return org.example.DoublePtr_04.ListNode
+     * @return org.example.doublePtr.DoublePtr_04.ListNode
      * @param head
      * @param k
      * @date 2023/9/14 15:55

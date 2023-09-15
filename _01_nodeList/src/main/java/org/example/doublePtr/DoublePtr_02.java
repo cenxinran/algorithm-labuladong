@@ -1,4 +1,4 @@
-package org.example;
+package org.example.doublePtr;
 
 /**
  * @BelongsProject: algorithm-labuladong

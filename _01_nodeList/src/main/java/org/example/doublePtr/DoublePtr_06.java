@@ -1,31 +1,14 @@
-package org.example;
+package org.example.doublePtr;
 
 /**
  * @BelongsProject: algorithm-labuladong
  * @BelongsPackage: org.example
  * @Author: 岑然
- * @CreateTime: 2023-09-14  18:56
- * @Description: 解法2 力扣 160. 相交链表 https://leetcode.cn/problems/intersection-of-two-linked-lists/description/
+ * @CreateTime: 2023-09-14  16:19
+ * @Description: 力扣 142. 环形链表 II https://leetcode.cn/problems/linked-list-cycle-ii/description/
  * @Version: 1.0
  */
-public class DoublePtr_07_02 {
-
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        // 1. 将其中一条链表首尾相连
-        ListNode p = headB;
-        while (p != null) {
-            if (p.next == null) {
-                p.next = headB;
-                break;
-            }
-            p = p.next;
-        }
-        // 2. 另一条链表寻找环的入口
-        ListNode rukou = detectCycle(headA);
-        // 3. 返回环的入口
-        p.next = null;
-        return rukou;
-    }
+public class DoublePtr_06 {
 
     public ListNode detectCycle(ListNode head) {
         // 1. 定义快慢指针
@@ -54,7 +37,7 @@ public class DoublePtr_07_02 {
     }
 
     /* 内部 ListNode 类 */
-    public class ListNode {
+    class ListNode {
         int val;
         ListNode next;
 
@@ -63,4 +46,5 @@ public class DoublePtr_07_02 {
             next = null;
         }
     }
+
 }
