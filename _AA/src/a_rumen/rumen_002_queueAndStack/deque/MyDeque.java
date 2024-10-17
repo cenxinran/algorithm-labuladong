@@ -1,4 +1,4 @@
-package main.java.com.cenran.rumen_002_queueAndStack.deque;
+package a_rumen.rumen_002_queueAndStack.deque;
 
 /*
  * 双端队列标准接口

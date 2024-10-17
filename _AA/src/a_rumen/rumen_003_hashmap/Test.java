@@ -1,4 +1,4 @@
-package main.java.com.cenran.rumen_003_hashmap;
+package a_rumen.rumen_003_hashmap;
 
 import java.util.ArrayList;
 import java.util.HashMap;

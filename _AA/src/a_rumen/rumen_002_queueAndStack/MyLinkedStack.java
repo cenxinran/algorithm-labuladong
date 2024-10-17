@@ -1,6 +1,6 @@
-package main.java.com.cenran.rumen_002_queueAndStack;
+package a_rumen.rumen_002_queueAndStack;
 
-import main.java.com.cenran.rumen_001_dongtaishuzu_and_lianbiao.MyLinkedList;
+import a_rumen.rumen_001_dongtaishuzu_and_lianbiao.MyLinkedList;
 
 /**
  * @className: MyQueue

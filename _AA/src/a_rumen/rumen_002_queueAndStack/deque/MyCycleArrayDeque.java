@@ -1,6 +1,6 @@
-package main.java.com.cenran.rumen_002_queueAndStack.deque;
+package a_rumen.rumen_002_queueAndStack.deque;
 
-import main.java.com.cenran.rumen_002_queueAndStack.MyCycleArr;
+import a_rumen.rumen_002_queueAndStack.MyCycleArr;
 
 /**
  * @className: MyCycleArrayDeque

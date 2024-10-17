@@ -1,4 +1,4 @@
-package main.java.com.cenran.rumen_004_erchashu;
+package a_rumen.rumen_004_erchashu;
 
 /**
  * @className: StateForNode
