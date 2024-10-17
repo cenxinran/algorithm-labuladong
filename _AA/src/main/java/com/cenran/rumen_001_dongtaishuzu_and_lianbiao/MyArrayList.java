@@ -1,4 +1,4 @@
-package main.java.com.cenran.dongtaishuzu;
+package main.java.com.cenran.rumen_001_dongtaishuzu_and_lianbiao;
 
 import java.util.NoSuchElementException;
 

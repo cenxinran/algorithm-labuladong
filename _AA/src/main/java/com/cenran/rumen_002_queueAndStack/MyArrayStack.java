@@ -1,6 +1,6 @@
-package main.java.com.cenran.queueAndStack;
+package main.java.com.cenran.rumen_002_queueAndStack;
 
-import main.java.com.cenran.dongtaishuzu.MyArrayList;
+import main.java.com.cenran.rumen_001_dongtaishuzu_and_lianbiao.MyArrayList;
 
 /**
  * @className: MyArrayStack

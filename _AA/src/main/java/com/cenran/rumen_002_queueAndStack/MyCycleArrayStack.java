@@ -1,4 +1,4 @@
-package main.java.com.cenran.queueAndStack;
+package main.java.com.cenran.rumen_002_queueAndStack;
 
 /**
  * @className: MyCycleArrayStack
