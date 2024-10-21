@@ -5,7 +5,7 @@ package b_00_hexinkuangjia.b_002_shuangzhizhen_shuzu;
  * @author: Docer
  * @date: 2024/10/18 12:18
  * @Version: 1.0
- * @description:26. 删除有序数组中的重复项
+ * @description: 26. 删除有序数组中的重复项
  */
 public class Solution001RemoveDuplicates {
     public int removeDuplicates(int[] nums) {
